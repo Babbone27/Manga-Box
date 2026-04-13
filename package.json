@@ -1,0 +1,11 @@
+{
+  "name": "manga-box",
+  "version": "1.5.0",
+  "description": "Personal manga collection manager - Web App",
+  "scripts": {
+    "start": "bash ./start_app.sh"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
